@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="New_You.Images"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" >
+
+    <Grid x:Name="LayoutRoot">
+
+
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bb/b1.jpg" Opacity="1" />
+        </Grid.Background>
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Happy NewYou" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Images " Margin="10,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+                <Button x:ConnectionId='2' Content="More" Width="85" Height="45" Margin="50,5,10,10"                />
+            </StackPanel>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+
+            <ProgressBar x:Name="chargement"  VerticalAlignment="Center"  IsIndeterminate="True"  Width="350" Height="1"  Visibility="Collapsed" HorizontalAlignment="Center"  />
+            <!--<Image Source="http://simplereminders.com/domains/simplereminders.com/uploads/images/blog/sonya-parker-people-know-walk-over-7w2m.jpg" Height="300" Width="250"
+                     HorizontalAlignment="Center" VerticalAlignment="Top" />-->
+
+            <ListView x:ConnectionId='1' x:Name="ImageGrid" ItemsSource="{Binding}"  Width="360" Margin="1,0,1,10" IsItemClickEnabled="True"                     >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                            <Image Source="{Binding Path=lien}"  Visibility="Visible" Margin="0,0,0,25"  />
+                            <!--<TextBlock Text="{Binding Path=Quote}" Foreground="Black" FontSize="25" TextWrapping="Wrap"/>-->
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+        </Grid>
+    </Grid>
+    
+    <Page.BottomAppBar>
+        <CommandBar  x:Name="BottomBar" Visibility="Visible" Background="Blue" Opacity="0.5"  >
+            <AppBarButton x:ConnectionId='3' Icon="Download" Label="download"                 />
+            <AppBarButton x:ConnectionId='4' Icon="Like" Label="facebook"              />
+            <AppBarButton x:ConnectionId='5' Icon="Send" Label="twit"             />
+            <AppBarButton x:ConnectionId='6' Icon="Favorite" Label="Favorites"               />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

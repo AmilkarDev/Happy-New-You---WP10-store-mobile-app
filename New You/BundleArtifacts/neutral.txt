@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You_1.1.0.1_Bundle\New You_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\AppPackages\New You_1.1.0.1_Test\New You_1.1.0.1_AnyCPU.appxsym
+ResourcePack=C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You_1.1.0.1_Bundle\New You_1.1.0.1_scale-100.appx
+ResourcePack=C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You_1.1.0.1_Bundle\New You_1.1.0.1_scale-140.appx

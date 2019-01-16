@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="New_You.BasicPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:New_You"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="MY APPLICATION" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="page title" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+
+            <StackPanel>
+                <!--Title-->
+                <TextBlock Text="FaceBook Integration in WP8.1:" FontSize="28" Foreground="Gray"/>
+                <!--Buttons for Login & Logout-->
+                <Button x:ConnectionId='1' Name="BtnLogin" Content="FaceBook Login" HorizontalAlignment="Stretch" Background="#FF00A9CF"                               />
+                <Button x:ConnectionId='2' Visibility="Collapsed" Name="BtnLogout" Content="FaceBook Logout" HorizontalAlignment="Stretch" Background="#FF00A9CF"                                />
+
+                <StackPanel Visibility="Collapsed" Name="StckPnlProfile_Layout">
+                    <!--Display facebook profile info-->
+                    <TextBlock Text="User Profile :" FontSize="30" TextWrapping="Wrap"  Foreground="White"/>
+                    <Image Stretch="None" x:Name="picProfile"  HorizontalAlignment="Left" />
+                    <TextBlock FontSize="20" Name="TxtUserProfile" TextWrapping="Wrap"  Foreground="White"/>
+                    <!--Post wall-->
+                    <TextBox Name="TxtStatusMsg" MinHeight="150" TextWrapping="Wrap" Header="Status Message:" FontSize="18" Foreground="Black"/>
+                    <Button x:ConnectionId='3' Content="Post Status on FaceBook" HorizontalAlignment="Stretch" Background="#FF00A9CF"                              />
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
+

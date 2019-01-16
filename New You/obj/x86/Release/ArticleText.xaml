@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="New_You.ArticleText"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:New_You"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.Background>
+            <SolidColorBrush Color="White" Opacity="0.6"></SolidColorBrush>
+        </Grid.Background>
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Happy NewYou" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Article" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <ProgressBar x:Name="chargement"  VerticalAlignment="Center"  IsIndeterminate="True"  Width="350" Height="1"  Visibility="Collapsed" HorizontalAlignment="Center"  />
+
+           
+            <GridView x:ConnectionId='1' x:Name="Post" ItemsSource="{Binding}" IsItemClickEnabled="True"                     >
+                <GridView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical">
+                        <TextBlock   Foreground="BurlyWood" FontSize="30" Text="{Binding Path=Titre}" HorizontalAlignment="Center" VerticalAlignment="Top" TextWrapping="Wrap"/>
+                            <TextBlock Foreground="Black" Margin="7,10,0,0" FontSize="18" Text="{Binding Path=Text}" TextWrapping="Wrap"  />
+                            <TextBlock Foreground="Red" FontSize="35"  Text="{Binding Path=Writer}" HorizontalAlignment="Center" />
+                        </StackPanel>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+                
+            </GridView>
+            
+            
+            
+            
+        </Grid>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar  x:Name="BottomBar" Visibility="Collapsed" Background="Blue" Opacity="0.5"  >
+            <!--<AppBarButton Icon="Download" Label="download" Click="Download"/>-->
+            <AppBarButton x:ConnectionId='2' Icon="Like" Label="facebook"              />
+            <AppBarButton x:ConnectionId='3' Icon="Send" Label="twit"             />
+            <AppBarButton x:ConnectionId='4' Icon="Favorite" Label="Favorites"               />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+
+</Page>
+

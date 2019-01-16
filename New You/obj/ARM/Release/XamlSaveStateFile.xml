@@ -1,0 +1,28 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\autofac.4.5.0\lib\netstandard1.1\autofac.dll" HashGuid="1cfb7731-fb5b-7eda-f194-e870e4de5f4e" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\facebook.client.1.0.4\lib\wpa81\facebook.client.dll" HashGuid="32d395fd-d10f-e96c-05be-bf064a7180f6" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\facebook.7.0.10-beta\lib\portable-win81+wpa81\facebook.dll" HashGuid="97ed4bec-bb80-d380-740a-a3dec42e3772" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\htmlagilitypack.1.4.9.5\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="2dc00e27-e5d5-1bb2-04c2-5e055a892902" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.azure.mobile.client.4.0.0-alpha-001\lib\netstandard1.1\microsoft.azure.mobile.client.dll" HashGuid="611305d0-7c14-0cb5-9838-c47c12998222" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.data.edm.5.8.2\lib\netstandard1.1\microsoft.data.edm.dll" HashGuid="60161513-beaf-10ae-e428-fba59ce579fc" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.data.odata.5.8.2\lib\netstandard1.1\microsoft.data.odata.dll" HashGuid="d7f974aa-ff47-c6c7-7b23-2180c0f65b29" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.bcl.async.1.0.168\lib\wpa81\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.bcl.async.1.0.168\lib\wpa81\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\newtonsoft.json.10.0.2\lib\portable-net45+win8+wpa81+wp8\newtonsoft.json.dll" HashGuid="dc6b12dd-6e29-692e-3aab-9db010480a7e" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\system.runtime.interopservices.runtimeinformation.4.3.0\lib\wpa81\system.runtime.interopservices.runtimeinformation.dll" HashGuid="6560d00f-0bb0-0755-5423-c4e1bf779127" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\system.spatial.5.8.2\lib\netstandard1.1\system.spatial.dll" HashGuid="99a51acd-6314-6831-8168-03883c65a0fb" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.controllers.dll" HashGuid="d6a211a0-fe55-50b5-09f0-2a7b4381c195" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.core.dll" HashGuid="b9a51fe6-55b6-7c54-74ad-a7c5d7b3e5dc" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.credentials.dll" HashGuid="95397c54-9e2f-f08e-4583-cf8fd025f157" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.dll" HashGuid="c7a74a87-4750-316d-384a-64e9ad4fa669" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.factories.dll" HashGuid="1d4c4e1e-f065-ed7e-0564-e14997eb1007" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.logic.dll" HashGuid="267bd67e-62f6-c35f-d345-2af5a00c98c1" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.security.dll" HashGuid="0cedc641-6184-0afd-b24e-5456b571ac71" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.streams.dll" HashGuid="66920561-a82e-fc85-e090-f6ba08c599b4" />
+    <ReferenceAssembly PathName="c:\users\malek\desktop\new you\packages\tweetinviapi.1.2.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\tweetinvi.weblogic.dll" HashGuid="b6e7cb95-4e57-5642-131c-58a87966719d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

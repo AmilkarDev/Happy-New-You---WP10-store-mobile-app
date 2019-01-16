@@ -1,0 +1,585 @@
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\App.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\MainPage.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\Quotes.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\Images.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\New You.xr.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\New You.exe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\New You.pdb
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\resources.pri
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\New You.build.appxrecipe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\ARM\Debug\HtmlAgilityPack.dll
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\App.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\App.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Quotes.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Quotes.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Images.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Images.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\App.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\MainPage.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Quotes.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Images.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\App.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\MainPage.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Quotes.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\Images.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\New You.exe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\New You.pdb
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\New You.csproj.GenerateResource.Cache
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\priconfig.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\layout.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\resources.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\pri.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\qualifiers.txt
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\ARM\Debug\ProjectArchitectures.txt
+E:\Projects-2013\New You\New You\bin\ARM\Debug\New You.exe.config
+E:\Projects-2013\New You\New You\bin\ARM\Debug\App.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Articles.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ArticleText.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\BasicPage1.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\MainPage.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Quotes.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Images.xbf
+E:\Projects-2013\New You\New You\bin\ARM\Debug\New You.xr.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\New You.exe
+E:\Projects-2013\New You\New You\bin\ARM\Debug\New You.pdb
+E:\Projects-2013\New You\New You\bin\ARM\Debug\resources.pri
+E:\Projects-2013\New You\New You\bin\ARM\Debug\AppxManifest.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\New You.build.appxrecipe
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Autofac.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Facebook.Client.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Facebook.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\HtmlAgilityPack.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Newtonsoft.Json.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Net.Http.Extensions.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Net.Http.Primitives.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Controllers.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Core.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Credentials.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Factories.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Logic.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Security.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.Streams.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Tweetinvi.WebLogic.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Autofac.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Facebook.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Facebook.Client.pdb
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Facebook.Client.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Facebook.Client.pri
+E:\Projects-2013\New You\New You\bin\ARM\Debug\HtmlAgilityPack.pdb
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Newtonsoft.Json.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Net.Http.Extensions.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Net.Http.Primitives.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\App.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\App.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Articles.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Articles.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\ArticleText.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\ArticleText.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\BasicPage1.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\BasicPage1.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\MainPage.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\MainPage.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Quotes.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Quotes.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Images.g.i.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Images.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\XamlTypeInfo.g.cs
+E:\Projects-2013\New You\New You\obj\ARM\Debug\App.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Articles.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\ArticleText.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\BasicPage1.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\MainPage.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Quotes.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Images.xaml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\App.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Articles.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\ArticleText.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\BasicPage1.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\MainPage.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Quotes.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Images.xbf
+E:\Projects-2013\New You\New You\obj\ARM\Debug\XamlSaveStateFile.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\New You.exe
+E:\Projects-2013\New You\New You\obj\ARM\Debug\New You.pdb
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Builder.RegistrationBuilderResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.ContainerBuilderResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Delegate.DelegateActivatorResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.ProvidedInstance.ProvidedInstanceActivatorResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.ConstructorParameterBindingResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.MatchingSignatureConstructorSelectorResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.MostParametersConstructorSelectorResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.ReflectionActivatorResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.ContainerResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.DependencyResolutionExceptionResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Lifetime.LifetimeScopeResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Lifetime.MatchingScopeLifetimeResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Registration.ComponentNotRegisteredExceptionResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Registration.ComponentRegistrationResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Registration.ServiceRegistrationInfoResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Resolving.CircularDependencyDetectorResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Resolving.ComponentActivationResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Resolving.ResolveOperationResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.ServiceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.Collections.CollectionRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.GeneratedFactories.GeneratedFactoryRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.LazyDependencies.LazyRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.LazyDependencies.LazyWithMetadataRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.LightweightAdapters.LightweightAdapterRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.Metadata.MetadataViewProviderResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.Metadata.MetaRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericDecoratorActivatorDataResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericDecoratorRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericRegistrationExtensionsResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericServiceBinderResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OwnedInstances.OwnedInstanceRegistrationSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.ResolveAnything.AnyConcreteTypeNotAlreadyRegisteredSourceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.ModuleResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.RegistrationExtensionsResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.TypeExtensionsResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Util.EnforceResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Util.FallbackDictionaryResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Util.ReflectionExtensionsResources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\en-US\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\New You.csproj.GenerateResource.Cache
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac.pri
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\qualifiers.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.pri
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\qualifiers.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\qualifiers.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Facebook.Client.pri.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\ProjectArchitectures.txt
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Azure.Mobile.Client.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Azure.Mobile.Client.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client.pri
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\qualifiers.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\New You.csprojResolveAssemblyReference.cache
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Data.Edm.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Data.OData.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Spatial.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Data.Edm.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.Data.OData.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\Microsoft.WindowsAzure.Storage.pdb
+E:\Projects-2013\New You\New You\bin\ARM\Debug\System.Spatial.xml
+E:\Projects-2013\New You\New You\bin\ARM\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\de\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\es\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\fr\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\it\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ja\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ko\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\ru\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\bin\ARM\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\en-US\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\de\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\es\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\fr\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\it\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\ja\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\ko\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\ru\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\Resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\Resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Autofac\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\Resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\Resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\Resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm.pri
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\qualifiers.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\Resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData.pri
+E:\Projects-2013\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\qualifiers.txt
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\layout.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\layout.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\Resources.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\Resources.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\pri.resfiles
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\pri.resfiles.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\priconfig.xml
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\priconfig.xml.intermediate
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial.pri
+E:\Projects-2013\New You\New You\obj\ARM\Debug\System.Spatial\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\New You.exe.config
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\App.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Articles.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\BasicPage1.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Favorites.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\MainPage.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\PrefImages.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\PrefQuotes.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Quotes.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Images.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\New You.xr.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\New You.exe
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\New You.pdb
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\resources.pri
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\New You.build.appxrecipe
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Autofac.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Facebook.Client.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Facebook.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\HtmlAgilityPack.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Data.Edm.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Data.OData.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Spatial.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Controllers.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Core.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Credentials.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Factories.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Logic.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Security.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.Streams.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Autofac.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Facebook.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Facebook.Client.pdb
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Facebook.Client.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Facebook.Client.pri
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\HtmlAgilityPack.pdb
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Data.Edm.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Data.OData.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\System.Spatial.xml
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\de\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\es\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\fr\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\it\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ja\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ko\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\ru\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\App.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\App.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Articles.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Articles.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\ArticleText.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\ArticleText.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\BasicPage1.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\BasicPage1.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Favorites.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Favorites.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefImages.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefImages.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefQuotes.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefQuotes.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Quotes.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Quotes.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Images.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Images.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\App.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Articles.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\ArticleText.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\BasicPage1.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Favorites.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\MainPage.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefImages.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefQuotes.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Quotes.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Images.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\App.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Articles.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\ArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\BasicPage1.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Favorites.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\MainPage.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefImages.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefQuotes.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Quotes.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Images.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\New You.exe
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\New You.pdb
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Builder.RegistrationBuilderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.ContainerBuilderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Delegate.DelegateActivatorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.ProvidedInstance.ProvidedInstanceActivatorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.ConstructorParameterBindingResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.MatchingSignatureConstructorSelectorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.MostParametersConstructorSelectorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Activators.Reflection.ReflectionActivatorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.ContainerResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.DependencyResolutionExceptionResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Lifetime.LifetimeScopeResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Lifetime.MatchingScopeLifetimeResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Registration.ComponentNotRegisteredExceptionResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Registration.ComponentRegistrationResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Registration.ServiceRegistrationInfoResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Resolving.CircularDependencyDetectorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Resolving.ComponentActivationResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.Resolving.ResolveOperationResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Core.ServiceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.Collections.CollectionRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.GeneratedFactories.GeneratedFactoryRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.LazyDependencies.LazyRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.LazyDependencies.LazyWithMetadataRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.LightweightAdapters.LightweightAdapterRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.Metadata.MetadataViewProviderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.Metadata.MetaRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericDecoratorActivatorDataResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericDecoratorRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericRegistrationExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericServiceBinderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.OwnedInstances.OwnedInstanceRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Features.ResolveAnything.AnyConcreteTypeNotAlreadyRegisteredSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.ModuleResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.RegistrationExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.TypeExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Util.EnforceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Util.FallbackDictionaryResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\en-US\Autofac.Util.ReflectionExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\en-US\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\de\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\es\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\fr\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\it\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\ja\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\ko\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\ru\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\New You.csproj.GenerateResource.Cache
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac.pri
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client.pri
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm.pri
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData.pri
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.pri
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial.pri
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Facebook.Client.pri.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PreArticleText.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PreArticleText.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefArticles.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefArticles.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefArticles.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PrefArticles.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PreArticleText.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\PreArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\PreArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\ARM\Debug\PrefArticles.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\New You.csprojResolveAssemblyReference.cache
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Autofac\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Azure.Mobile.Client\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\ARM\Debug\System.Spatial\priconfig.xml.intermediate

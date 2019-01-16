@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="8479FerhiMalek.HappyNewYou" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Articles.xbf" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Articles.xbf">
+				<Candidate type="Path">
+					<Value>Articles.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ArticleText.xbf" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/ArticleText.xbf">
+				<Candidate type="Path">
+					<Value>ArticleText.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Images.xbf" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Images.xbf">
+				<Candidate type="Path">
+					<Value>Images.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="New You.xr.xml" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/New%20You.xr.xml">
+				<Candidate type="Path">
+					<Value>New You.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Quotes.xbf" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Quotes.xbf">
+				<Candidate type="Path">
+					<Value>Quotes.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="bb">
+					<NamedResource name="b0.jpg" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/bb/b0.jpg">
+						<Candidate type="Path">
+							<Value>Assets\bb\b0.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="b1.jpg" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/bb/b1.jpg">
+						<Candidate type="Path">
+							<Value>Assets\bb\b1.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="b2.jpg" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/bb/b2.jpg">
+						<Candidate type="Path">
+							<Value>Assets\bb\b2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="b3.jpg" uri="ms-resource://8479FerhiMalek.HappyNewYou/Files/Assets/bb/b3.jpg">
+						<Candidate type="Path">
+							<Value>Assets\bb\b3.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

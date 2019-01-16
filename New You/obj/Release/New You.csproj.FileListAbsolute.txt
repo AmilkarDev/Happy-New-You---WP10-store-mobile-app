@@ -1,0 +1,54 @@
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\App.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\Articles.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\ArticleText.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\MainPage.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\Quotes.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\Images.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You.xr.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You.exe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You.pdb
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\resources.pri
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\AppxManifest.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\New You.build.appxrecipe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\Release\HtmlAgilityPack.dll
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\App.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\App.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Articles.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Articles.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\ArticleText.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\ArticleText.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\MainPage.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\MainPage.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Quotes.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Quotes.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Images.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Images.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\App.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Articles.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\App.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Articles.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\XamlSaveStateFile.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\ArticleText.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\MainPage.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Quotes.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Images.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\ArticleText.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\MainPage.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Quotes.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\Images.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\New You.exe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\New You.pdb
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\New You.csproj.GenerateResource.Cache
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\priconfig.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\priconfig.xml.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\layout.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\layout.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\resources.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\resources.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\pri.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\pri.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\qualifiers.txt
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\qualifiers.txt.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\Release\ProjectArchitectures.txt

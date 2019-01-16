@@ -1,0 +1,326 @@
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\App.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\MainPage.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\Quotes.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\Images.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\New You.xr.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\New You.exe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\New You.pdb
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\resources.pri
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\AppxManifest.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\New You.build.appxrecipe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\bin\x86\Release\HtmlAgilityPack.dll
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\New You.csprojResolveAssemblyReference.cache
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\App.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\App.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\MainPage.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\MainPage.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Quotes.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Quotes.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Images.g.i.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Images.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\App.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\MainPage.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Quotes.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Images.xaml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\App.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\MainPage.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Quotes.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\Images.xbf
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\New You.exe
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\New You.pdb
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\New You.csproj.GenerateResource.Cache
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\priconfig.xml
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\layout.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\resources.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\pri.resfiles
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\qualifiers.txt
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\New You\New You\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\App.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\App.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Articles.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Articles.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\ArticleText.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\ArticleText.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\BasicPage1.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\BasicPage1.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Favorites.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Favorites.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\MainPage.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\MainPage.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefImages.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefImages.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Quotes.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Quotes.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Images.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Images.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\App.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Articles.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\ArticleText.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\BasicPage1.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Quotes.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\App.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Articles.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\ArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\BasicPage1.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Quotes.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\New You.exe
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\New You.pdb
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Favorites.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\MainPage.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefImages.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Images.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Favorites.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\MainPage.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefImages.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Images.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\New You.exe.config
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\App.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Articles.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\BasicPage1.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Favorites.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\MainPage.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\PrefImages.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Quotes.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Images.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\New You.xr.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\New You.exe
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\New You.pdb
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\resources.pri
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\AppxManifest.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\New You.build.appxrecipe
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Autofac.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Facebook.Client.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Facebook.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\HtmlAgilityPack.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Azure.Mobile.Client.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Data.Edm.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Data.OData.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Net.Http.Extensions.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Net.Http.Primitives.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Spatial.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Controllers.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Core.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Credentials.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Factories.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Logic.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Security.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.Streams.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Tweetinvi.WebLogic.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Autofac.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Facebook.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Facebook.Client.pdb
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Facebook.Client.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Facebook.Client.pri
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\HtmlAgilityPack.pdb
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Azure.Mobile.Client.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Data.Edm.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Data.OData.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Net.Http.Extensions.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Net.Http.Primitives.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\System.Spatial.xml
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\de\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\es\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\fr\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\it\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ja\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ko\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\ru\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Builder.RegistrationBuilderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.ContainerBuilderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Activators.Delegate.DelegateActivatorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Activators.ProvidedInstance.ProvidedInstanceActivatorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Activators.Reflection.ConstructorParameterBindingResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Activators.Reflection.MatchingSignatureConstructorSelectorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Activators.Reflection.MostParametersConstructorSelectorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Activators.Reflection.ReflectionActivatorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.ContainerResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.DependencyResolutionExceptionResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Lifetime.LifetimeScopeResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Lifetime.MatchingScopeLifetimeResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Registration.ComponentNotRegisteredExceptionResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Registration.ComponentRegistrationResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Registration.ServiceRegistrationInfoResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Resolving.CircularDependencyDetectorResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Resolving.ComponentActivationResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.Resolving.ResolveOperationResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Core.ServiceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.Collections.CollectionRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.GeneratedFactories.GeneratedFactoryRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.LazyDependencies.LazyRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.LazyDependencies.LazyWithMetadataRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.LightweightAdapters.LightweightAdapterRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.Metadata.MetadataViewProviderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.Metadata.MetaRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericDecoratorActivatorDataResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericDecoratorRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericRegistrationExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.OpenGenerics.OpenGenericServiceBinderResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.OwnedInstances.OwnedInstanceRegistrationSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Features.ResolveAnything.AnyConcreteTypeNotAlreadyRegisteredSourceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.ModuleResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.RegistrationExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.TypeExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Util.EnforceResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Util.FallbackDictionaryResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\en-US\Autofac.Util.ReflectionExtensionsResources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\en-US\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\New You.csproj.GenerateResource.Cache
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac.pri
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client.pri
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm.pri
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData.pri
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation.pri
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial.pri
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\qualifiers.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Facebook.Client.pri.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefQuotes.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefQuotes.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefQuotes.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefQuotes.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\PrefQuotes.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\PreArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\bin\x86\Release\PrefArticles.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PreArticleText.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PreArticleText.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefArticles.g.i.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefArticles.g.cs
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefArticles.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PrefArticles.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PreArticleText.xaml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\PreArticleText.xbf
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Autofac\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Azure.Mobile.Client\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\layout.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\layout.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\Resources.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\Resources.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\pri.resfiles
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\pri.resfiles.intermediate
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\priconfig.xml
+C:\Users\Malek\Desktop\New You\New You\obj\x86\Release\System.Spatial\priconfig.xml.intermediate

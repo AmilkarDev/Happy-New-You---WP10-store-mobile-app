@@ -1,0 +1,107 @@
+﻿<Page
+    x:Class="New_You.Articles"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:New_You"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bb/b1.jpg" Opacity="0.3"/>
+        </Grid.Background>
+
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Happy NewYou" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Articles" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+
+
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="5,9.5,19,5">
+            <!--<StackPanel Orientation="Vertical">
+            <TextBlock Text="Welcome New Future" Foreground="AliceBlue"
+                       TextWrapping="Wrap" FontSize="35"/>
+            <Rectangle Height="8.5" Width="350" Fill="White" />
+                <TextBlock Text="Welcome New Future" Foreground="AliceBlue"  
+                       TextWrapping="Wrap" FontSize="35"/>
+                <Rectangle Height="8.5" Width="350" Fill="White" />
+                <TextBlock Text="Welcome New Future" Foreground="AliceBlue"  
+                       TextWrapping="Wrap" FontSize="35"/>
+                <Rectangle Height="8.5" Width="350" Fill="White" />
+                <TextBlock Text="Welcome New Future" Foreground="AliceBlue"  
+                       TextWrapping="Wrap" FontSize="35"/>
+                
+                <Rectangle Height="8.5" Width="350" Fill="AliceBlue" />
+               
+            </StackPanel>-->
+            
+            
+            
+            <!--<ListView x:Name="YearsPosts" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                   
+                <StackPanel Orientation="Horizontal" Height="50" VerticalAlignment="Top">
+                    <Button Content="2016"  ></Button>
+                    <Button Content="2015" Click="Go2015"></Button>
+                    <Button Content="2014" ></Button>
+                    <Button Content="2013" ></Button>
+                    <Button Content="2012" ></Button>
+                    <Button Content="2011" ></Button>
+                    <Button Content="2010" ></Button>
+                    <Button Content="2009" ></Button>
+                    <Button Content="2008" ></Button>
+                <Button Content="2007" ></Button>
+                <Button Content="2006" ></Button>
+                <Button Content="2005" ></Button>
+                <Button Content="2004" ></Button>
+                <Button Content="2003" ></Button>
+                <Button Content="2002" ></Button>
+                <Button Content="2001" ></Button>
+                <Button Content="2000" ></Button>
+                <Button Content="1999" ></Button>
+                <Button Content="1998" ></Button>
+                <Button Content="1997" ></Button>
+                <Button Content="1996" ></Button>
+                <Button Content="1995" ></Button>
+            </StackPanel>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
+            <ProgressBar  x:Name="chargement" Width="150"  IsIndeterminate="True" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Blue" Height="10"/>
+            <ListView x:ConnectionId='1' ItemsSource="{Binding}" IsItemClickEnabled="True"                    x:Name="Titles" Margin="0,10,0,10" VerticalAlignment="Bottom" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="{Binding Path=Title}" Foreground="Chartreuse"
+                       TextWrapping="Wrap" FontSize="35"/>
+                            <Rectangle Height="8.5" Width="350" Fill="White" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            
+            </ListView>
+
+           
+        </Grid>
+    </Grid>
+</Page>
+
