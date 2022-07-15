@@ -3,8 +3,7 @@ One of the earliest .Net applications I ever developer , around the beginning of
 learning software development using .Net Technologies.  
 This application serves for personal development purposes, by suggesting several ressources of Motivation : photos, motivational
 short texts or Quotes.  
---- The design of the mobile application seems pretty ugly cause that was one of the earliest apps I published to WINDOWS Store, I didn't 
-know much about Mobile applications design  
+
 #  Technologies  
 Windows Phone 8.1 SDK , C# , Visual Studio, XAML, HTML Agility Pack, Sqlite  
 #  Screenshots  
